@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<<<<<<< HEAD
 <body>
 	<!--测试远程修改，本地更新-->
 	
